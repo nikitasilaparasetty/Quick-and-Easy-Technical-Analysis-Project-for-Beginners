@@ -1,5 +1,7 @@
 # Quick-and-Easy-Technical-Analysis-Project-for-Beginners
-Summary: Develop a simple project to understand the behavior of stocks with the help of exploratory data analysis and Yahoo Finance data. 
+*Summary: Create a simple project to understand the behavior of stocks with the help of exploratory data analysis and Yahoo Finance data.*
+
+NOTE: This project is designed for beginners to get a foothold in using exploratory data analysis to identify trends and develop conclusions. This is not to be considered as an accurate measure of optimality for real world stock trading. 
 
 
 Project Background:
