@@ -8,8 +8,6 @@
 
 Technical Analysis is used to identify and assess trading and investment opportunities. Ths is done by observing patterns in historical trading data and determining the best investment to make. This method is used by companies and individuals alike to make informed decisions regarding their investments. 
 
-\n
-\n
 
 **Project Objectives:**
 
@@ -19,16 +17,11 @@ Technical Analysis is used to identify and assess trading and investment opportu
 4. Determine which of the stocks would be a better option for stock trading.
 
 
-
-
-
 **Language Used:**
-
 Python
 
 
 **Data Used:**
-
 The data is obtained with the help of the Yahoo Finance library in Python.
 
 **Python Libraries Used:**
