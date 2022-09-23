@@ -8,8 +8,8 @@
 
 Technical Analysis is used to identify and assess trading and investment opportunities. Ths is done by observing patterns in historical trading data and determining the best investment to make. This method is used by companies and individuals alike to make informed decisions regarding their investments. 
 
-
-
+\n
+\n
 
 **Project Objectives:**
 
